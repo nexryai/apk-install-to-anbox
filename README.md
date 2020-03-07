@@ -1,2 +1,2 @@
 # AltairLinux-apk-install-to-anbox
-anboxにapkをインストールします。anboxが実行されている必要があります。
+anboxにapkをインストールします。anboxエミュレーターが実行されている必要があります。
